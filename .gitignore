@@ -18,6 +18,9 @@ target/
 *.log
 .mvn/wrapper/maven-wrapper.jar
 
+# Force include HELP.md even if backend .gitignore excludes it
+!backend/HELP.md
+
 # IDE
 .idea/
 *.iml
