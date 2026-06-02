@@ -155,6 +155,9 @@ PORT=3000
 - [`WORKSHOP.md`](WORKSHOP.md) — Guía del taller Spec-Driven Development
 
 ---
+Evidencias:
+<img width="1823" height="898" alt="image" src="https://github.com/user-attachments/assets/44b1d0f6-b674-4279-8884-7b264d584aaf" />
+
 
 ## 👤 Autor
 
